@@ -1,0 +1,3 @@
+Put downloaded case-study images in this folder if you want the site to stop
+depending on your old Wix site for images. See the "About the case-study
+images" section in the main README.md for the exact steps.
